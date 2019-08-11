@@ -1,3 +1,3 @@
 # SimpleFlutterExamples
 Simple Examples for flutter apps
-![](gif1.mp4)
+![](gif1.gif)
