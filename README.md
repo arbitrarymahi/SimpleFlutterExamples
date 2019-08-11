@@ -1,3 +1,3 @@
 # SimpleFlutterExamples
 Simple Examples for flutter apps<br/>
-![Page view](https://gph.is/g/EGyVogn)
+![Page view](https://media.giphy.com/media/cOioRdCpuVRwTUvNBL/giphy.gif)
